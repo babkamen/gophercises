@@ -1,0 +1,3 @@
+[submodule "quiz"]
+	path = quiz
+	url = git@github.com:babkamen/quiz.git
